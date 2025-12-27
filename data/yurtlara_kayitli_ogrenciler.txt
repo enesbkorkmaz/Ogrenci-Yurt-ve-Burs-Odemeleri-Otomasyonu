@@ -1,0 +1,4 @@
+enesbkorkmaz,Kerebi Gazi Erkek Öğrenci Yurdu,ödendi
+kadiryaksi,Kerebi Gazi Erkek Öğrenci Yurdu,ödendi
+ardaeren,Cerrah Mehmet Paşa Yurdu,ödendi
+yusuf,Kerebi Gazi Erkek Öğrenci Yurdu,ödendi

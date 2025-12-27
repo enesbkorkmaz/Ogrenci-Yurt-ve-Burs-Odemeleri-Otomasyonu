@@ -1,0 +1,8 @@
+burs,enesbkorkmaz,Enes Burak Korkmaz,22,150000,540,onaylandı
+yurt,enesbkorkmaz,Enes Burak Korkmaz,22,150000,Bursa,Çorum,Erkek,onaylandı
+yurt,kadiryaksi,Kadir Yakşı,20,125000,Bursa,Çorum,Erkek,onaylandı
+yurt,ardaeren,Arda Eren Korkmaz,18,250000,Bursa,İSTANBUL,Erkek,onaylandı
+yurt,yusuf,Yusuf Çankırlı,20,500000,Uşak,Çorum,Erkek,onaylandı
+burs,yusuf,Yusuf Çankırlı,22,500000,360,beklemede
+burs,yusuf,Yusuf Çankırlı,20,500001,360,beklemede
+yurt,fatma,fatma erim,20,500000,Uşak,Çorum,kadın,onaylandı

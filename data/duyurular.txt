@@ -1,0 +1,4 @@
+duyuru,2024 Yılının Burs Başvuruları Başlamıştır!
+duyuru,Yurt Başvurusu İçin Son Tarih: 15 Ocak 2024
+duyuru,Burs Başvurusu İçin Son Tarih: 20 Şubat 2024
+duyuru,Öğrenci bursları 3000TL olarak güncellenmiştir.

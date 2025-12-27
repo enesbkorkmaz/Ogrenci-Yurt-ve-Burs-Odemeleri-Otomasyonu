@@ -1,0 +1,4 @@
+yurt,Erkek,ÇORUM,Kerebi Gazi Erkek Öğrenci Yurdu,1600,1597,tip6
+yurt,Kadın,ÇORUM,Hayrettin Karaman Kız Öğrenci Yurdu,700,700,tip6
+yurt,Erkek,İSTANBUL,Cerrah Mehmet Paşa Yurdu,4000,3999,tip6
+yurt,Kadın,ÇORUM,hitit yurdu,500,500,tip5

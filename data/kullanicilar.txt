@@ -1,0 +1,17 @@
+mudur,admin,admin,admin,Erkek
+ogrenci,enesburak2002@gmail.com,enesbkorkmaz,enes2002.,Enes Burak Korkmaz,7055,Erkek,burslu
+ogrenci,kadiryakss16@gmail.com,kadiryaksi,1616bursa,Kadir Yakşı,19145,Erkek,burssuz
+ogrenci,kendirlioglu_metehan@hotmail.com,metehan_kndrl,1numara,Metehan Kendirlioğlu,2001,Erkek,burssuz
+ogrenci,cankirli64@icloud.com,yusuf_cankirli,12345,Yusuf Çankırlı,14000,Erkek,burssuz
+ogrenci,gokcealper@outlook.com,alpergokce,alper123,Alper Gökçe,50,Erkek,burssuz
+ogrenci,m.aliyaksi@gmail.com,muhammetyaksi,yaks1616,Muhammet Ali Yakşı,0,Erkek,burssuz
+ogrenci,raufeken@icloud.com,raufeken,rauf42.,Rauf Eken,500,Erkek,burssuz
+personel,turanemre@gmail.com,emreturan,Turanemre123,Emre Turan,Erkek
+personel,selmakara@gmail.com,selma.kara,selma2024,Selma Kara,kadın
+ogrenci,acarelif17@gmail.com,elifacar,elif123,Elif Acar,0,Kadın,burssuz
+ogrenci,cetin15@hotmail.com,cetin.kubra,kuubra,Kübra Çetin,0,Kadın,burssuz
+personel,cetin@gmail.com,ahmetcetin,ahmet123,Ahmet Çetin,Erkek
+ogrenci,a.eren.korkmaz@gmail.com,ardaeren,arda2006.,Arda Eren Korkmaz,1145,Erkek,burssuz
+ogrenci,yusuf@gmail.com,yusuf,1234,Yusuf Çankırlı,4145,Erkek,burssuz
+personel,emre@gmail.com,emre,1234,Emre Korkmaz,Erkek
+ogrenci,fatma@gmail.com,fatma,1234,fatma yılmaz,2000,kadın,burssuz
